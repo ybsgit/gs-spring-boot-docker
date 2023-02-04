@@ -6,5 +6,5 @@ pool:
 steps:
  - bash: |
      ls -la
-     ./complete/.mvnw spring-boot:build-image -Dspring-boot.build-image.imageName=newregsitry9908/gs-spring-boot-docker
+     ./complete/mvnw spring-boot:build-image -Dspring-boot.build-image.imageName=newregsitry9908/gs-spring-boot-docker
 

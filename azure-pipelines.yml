@@ -9,4 +9,4 @@ steps:
     containerRegistry: 'whcca927_docker'
     repository: 'newregsitry9908'
     command: 'buildAndPush'
-    Dockerfile: '**/Dockerfile'
+    Dockerfile: 'complete/Dockerfile'
